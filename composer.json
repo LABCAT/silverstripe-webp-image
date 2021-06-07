@@ -1,5 +1,5 @@
 {
-    "name": "nomidi/silverstripe-webp-image",
+    "name": "sunnysideup/silverstripe-webp-image",
     "description": "Create webp image on resize of jpg and png files",
     "keywords": [
         "silverstripe",
